@@ -1,0 +1,3 @@
+Tkinter is built-in, so nothing required
+Python 3.x is required
+No additional packages are required for this script
